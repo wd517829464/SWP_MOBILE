@@ -1,0 +1,39 @@
+PODS:
+  - IQKeyboardManager (4.0.8)
+  - M80AttributedLabel (1.5.0)
+  - NIMKit (1.0.7):
+    - NIMKit/Lite (= 1.0.7)
+  - NIMKit/Core (1.0.7):
+    - M80AttributedLabel (~> 1.5.0)
+    - SDWebImage (~> 3.8.2)
+    - SVProgressHUD (~> 2.0.3)
+    - Toast (~> 3.0)
+    - TZImagePickerController (~> 1.7.7)
+  - NIMKit/Lite (1.0.7):
+    - NIMKit/Core
+    - NIMSDK_LITE (~> 3.3.0)
+  - NIMSDK_LITE (3.3.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SVProgressHUD (2.0.4)
+  - Toast (3.1.0)
+  - TZImagePickerController (1.7.8)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - NIMKit
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 1a8189fa153bf09044355ee0ad36826f6767e7f7
+  M80AttributedLabel: f2bf6608c3fa5475d3f753d4cc7e41dc2359c6c2
+  NIMKit: 599c04bccc2fa897822236b588dd7b368f1a3c23
+  NIMSDK_LITE: 0d58be23ce0564b6920f2d57d0a8a351baab7505
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SVProgressHUD: bfde85ed6c573ea802b9cb37894ed9b629034f1b
+  Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
+  TZImagePickerController: 87a138ae5d585225aaa6c8abe2cface0f0ad19dd
+
+PODFILE CHECKSUM: 6e96dcb97d11692db4faa582d6c1fed2c41f3066
+
+COCOAPODS: 1.2.0
